@@ -1,2 +1,2 @@
-# Web-game-news
+# Web-gamenews
 this is a website about game news
